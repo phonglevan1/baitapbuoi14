@@ -3,9 +3,9 @@
     // lấy từng số nguyên input so sánh với nhau
     // số nào nhỏ cho lên đầu
 //OUTPUT: xuất ra số từ nhỏ đến lớn
-var inter1 = 3;
-var inter2 = 1;
-var inter3 = 2;
+var inter1 = 10;
+var inter2 = 100;
+var inter3 = 99;
 
 if (inter1 < inter2 && inter1 < inter3) {
     if (inter2 < inter3) {

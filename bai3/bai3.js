@@ -5,10 +5,12 @@
     //số lẽ = 3 - số chẵn
 //OUTput: xuất bao nhiêu số chắn và bao nhiêu số lẻ
 
-var number1 = 2;
-var number2 = 6;
+var number1 = 1;
+var number2 = 1;
 var number3 = 1;
 var count = 0;
+
+
 if(number1%2===0){
     count++;
     if(number2%2===0){
